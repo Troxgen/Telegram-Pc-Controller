@@ -1,0 +1,6 @@
+psutil
+pyautogui
+mss
+webbrowser
+pycaw
+python-telegram-bot
